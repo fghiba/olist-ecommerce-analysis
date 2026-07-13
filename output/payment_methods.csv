@@ -1,0 +1,5 @@
+payment_type,order_count,total_revenue,revenue_share_pct
+credit_card,74060,12268529.8,78.6
+boleto,19400,2794160.28,17.9
+voucher,2618,325953.73,2.1
+debit_card,1506,211031.92,1.4
